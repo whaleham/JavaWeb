@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebTest/WebTest.iml" filepath="$PROJECT_DIR$/WebTest/WebTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news/news.iml" filepath="$PROJECT_DIR$/news/news.iml" />
+      <module fileurl="file://$PROJECT_DIR$/演示示例1：编写通用DAO升级增删改查新闻信息/演示示例1：编写通用DAO升级增删改查新闻信息.iml" filepath="$PROJECT_DIR$/演示示例1：编写通用DAO升级增删改查新闻信息/演示示例1：编写通用DAO升级增删改查新闻信息.iml" />
+      <module fileurl="file://$PROJECT_DIR$/演示示例2：配置文件存储数据库信息/演示示例2：配置文件存储数据库信息.iml" filepath="$PROJECT_DIR$/演示示例2：配置文件存储数据库信息/演示示例2：配置文件存储数据库信息.iml" />
+      <module fileurl="file://$PROJECT_DIR$/演示示例3 ：简单的单例模式实现/演示示例3 ：简单的单例模式实现.iml" filepath="$PROJECT_DIR$/演示示例3 ：简单的单例模式实现/演示示例3 ：简单的单例模式实现.iml" />
+      <module fileurl="file://$PROJECT_DIR$/演示示例4：懒汉模式-synchronized/演示示例4：懒汉模式-synchronized.iml" filepath="$PROJECT_DIR$/演示示例4：懒汉模式-synchronized/演示示例4：懒汉模式-synchronized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/演示示例5：饿汉模式/演示示例5：饿汉模式.iml" filepath="$PROJECT_DIR$/演示示例5：饿汉模式/演示示例5：饿汉模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/补充案例：饿汉模式的延迟加载/补充案例：饿汉模式的延迟加载.iml" filepath="$PROJECT_DIR$/补充案例：饿汉模式的延迟加载/补充案例：饿汉模式的延迟加载.iml" />
+    </modules>
+  </component>
+</project>
