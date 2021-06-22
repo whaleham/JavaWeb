@@ -1,11 +1,11 @@
-package util;
+package com.news.DAO.util;
+
+import org.apache.commons.dbcp.BasicDataSource;
 
 import java.io.IOException;
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.Properties;
-
-import org.apache.commons.dbcp.BasicDataSource;
 
 //连接数据库的工具类
 public class DBUtil {

@@ -3,13 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WebTest/WebTest.iml" filepath="$PROJECT_DIR$/WebTest/WebTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/news/news.iml" filepath="$PROJECT_DIR$/news/news.iml" />
-      <module fileurl="file://$PROJECT_DIR$/演示示例1：编写通用DAO升级增删改查新闻信息/演示示例1：编写通用DAO升级增删改查新闻信息.iml" filepath="$PROJECT_DIR$/演示示例1：编写通用DAO升级增删改查新闻信息/演示示例1：编写通用DAO升级增删改查新闻信息.iml" />
-      <module fileurl="file://$PROJECT_DIR$/演示示例2：配置文件存储数据库信息/演示示例2：配置文件存储数据库信息.iml" filepath="$PROJECT_DIR$/演示示例2：配置文件存储数据库信息/演示示例2：配置文件存储数据库信息.iml" />
-      <module fileurl="file://$PROJECT_DIR$/演示示例3 ：简单的单例模式实现/演示示例3 ：简单的单例模式实现.iml" filepath="$PROJECT_DIR$/演示示例3 ：简单的单例模式实现/演示示例3 ：简单的单例模式实现.iml" />
-      <module fileurl="file://$PROJECT_DIR$/演示示例4：懒汉模式-synchronized/演示示例4：懒汉模式-synchronized.iml" filepath="$PROJECT_DIR$/演示示例4：懒汉模式-synchronized/演示示例4：懒汉模式-synchronized.iml" />
-      <module fileurl="file://$PROJECT_DIR$/演示示例5：饿汉模式/演示示例5：饿汉模式.iml" filepath="$PROJECT_DIR$/演示示例5：饿汉模式/演示示例5：饿汉模式.iml" />
-      <module fileurl="file://$PROJECT_DIR$/补充案例：饿汉模式的延迟加载/补充案例：饿汉模式的延迟加载.iml" filepath="$PROJECT_DIR$/补充案例：饿汉模式的延迟加载/补充案例：饿汉模式的延迟加载.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据源及分层开发下载资料/下载资料/01-演示示例/演示示例1：Tomcat配置数据源/演示示例1：Tomcat配置数据源.iml" filepath="$PROJECT_DIR$/数据源及分层开发下载资料/下载资料/01-演示示例/演示示例1：Tomcat配置数据源/演示示例1：Tomcat配置数据源.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据源及分层开发下载资料/下载资料/01-演示示例/演示示例2：编写JavaBean实现增删改查操作/演示示例2：编写JavaBean实现增删改查操作.iml" filepath="$PROJECT_DIR$/数据源及分层开发下载资料/下载资料/01-演示示例/演示示例2：编写JavaBean实现增删改查操作/演示示例2：编写JavaBean实现增删改查操作.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据源及分层开发下载资料/下载资料/01-演示示例/演示示例3：编写Service层—级联删除/演示示例3：编写Service层—级联删除.iml" filepath="$PROJECT_DIR$/数据源及分层开发下载资料/下载资料/01-演示示例/演示示例3：编写Service层—级联删除/演示示例3：编写Service层—级联删除.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据源及分层开发下载资料/下载资料/01-演示示例/演示示例4：新闻列表显示页面/演示示例4：新闻列表显示页面.iml" filepath="$PROJECT_DIR$/数据源及分层开发下载资料/下载资料/01-演示示例/演示示例4：新闻列表显示页面/演示示例4：新闻列表显示页面.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据源及分层开发下载资料/下载资料/01-演示示例/演示示例5：jspuseBean的使用/演示示例5：jspuseBean的使用.iml" filepath="$PROJECT_DIR$/数据源及分层开发下载资料/下载资料/01-演示示例/演示示例5：jspuseBean的使用/演示示例5：jspuseBean的使用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据源及分层开发下载资料/下载资料/01-演示示例/演示示例6：jspinclude的使用/演示示例6：jspinclude的使用.iml" filepath="$PROJECT_DIR$/数据源及分层开发下载资料/下载资料/01-演示示例/演示示例6：jspinclude的使用/演示示例6：jspinclude的使用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据源及分层开发下载资料/下载资料/01-演示示例/演示示例7：两种页面包含的区别/演示示例7：两种页面包含的区别.iml" filepath="$PROJECT_DIR$/数据源及分层开发下载资料/下载资料/01-演示示例/演示示例7：两种页面包含的区别/演示示例7：两种页面包含的区别.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据源及分层开发下载资料/下载资料/01-演示示例/演示示例8：jspforward的使用/演示示例8：jspforward的使用.iml" filepath="$PROJECT_DIR$/数据源及分层开发下载资料/下载资料/01-演示示例/演示示例8：jspforward的使用/演示示例8：jspforward的使用.iml" />
     </modules>
   </component>
 </project>

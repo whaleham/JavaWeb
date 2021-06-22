@@ -1,0 +1,8 @@
+1、配置Tomcat的conf/context.xml
+	<Resource name="jdbc/news" 
+              auth="Container"  type="javax.sql.DataSource"  maxActive="100" 
+              maxIdle="30" maxWait="10000" username="root"  password="bdqn" 
+              driverClassName="com.mysql.jdbc.Driver" 
+              url="jdbc:mysql://127.0.0.1:3306/kgcnews"/>
+2、使用JNDI获取连接对象
+	

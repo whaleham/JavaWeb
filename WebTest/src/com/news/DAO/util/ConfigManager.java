@@ -1,5 +1,7 @@
 package com.news.DAO.util;
 
+import com.news.DAO.impl.NewDAOImpl;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
@@ -9,6 +11,7 @@ public class ConfigManager {
 	private static Properties properties;
 	
 	private ConfigManager(){
+		NewDAOImpl newDAO = new NewDAOImpl();
 		String configFile="database.properties";
 		properties=new Properties();
 		InputStream in=ConfigManager.class.getClassLoader().getResourceAsStream(configFile);

@@ -1,5 +1,7 @@
 package com.news.DAO;
 
+import com.news.DAO.util.ConfigManager;
+
 import java.sql.*;
 
 public abstract class BaseDAO {
@@ -8,10 +10,14 @@ public abstract class BaseDAO {
     protected ResultSet resultSet = null;
 
     public boolean connect() {
-        String driver = "com.mysql.jdbc.Driver";
-        String url = "jdbc:mysql://127.0.0.1:3306/kgcnews";
-        String username = "root";
-        String password = "qqqq";
+//        String driver = "com.mysql.jdbc.Driver";
+//        String url = "jdbc:mysql://127.0.0.1:3306/kgcnews";
+//        String username = "root";
+//        String password = "qqqq";
+        String driver = ConfigManager.getInstance().getString("driver");
+        String url = ConfigManager.getInstance().getString("url");
+        String username = ConfigManager.getInstance().getString("username");
+        String password = ConfigManager.getInstance().getString("password");
         try {
             Class.forName(driver);
             connection = DriverManager.getConnection(url, username, password);
