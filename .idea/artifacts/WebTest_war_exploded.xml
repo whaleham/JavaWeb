@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-war" name="WebTest:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/WebTest_war_exploded</output-path>
-    <root id="root">
-      <element id="library" level="project" name="jdk1.8" />
-      <element id="javaee-facet-resources" facet="WebTest/web/Web" />
-    </root>
-  </artifact>
-</component>
